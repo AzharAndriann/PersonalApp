@@ -7,7 +7,7 @@ import { RiJavascriptFill, RiTailwindCssFill } from "react-icons/ri";
 export function CarouselDemo() {
   const items = [
     {
-      imgSrc: "public/images/notesapp.png",
+      imgSrc: "images/notesapp.png",
       title: "Notes App",
       description: (
         <>
@@ -18,7 +18,7 @@ export function CarouselDemo() {
       sites:"https://notes-app-tau-five.vercel.app/",
     },
     {
-      imgSrc: "public/images/thebesteats.png",
+      imgSrc: "images/thebesteats.png",
       title: "The Best Eats",
       description: (
         <>
@@ -63,7 +63,7 @@ export function CarouselDemo() {
 
     },
     {
-      imgSrc: "public/images/trigonometriapp.png",
+      imgSrc: "images/trigonometriapp.png",
       title: "Trigonometri",
       description: (
         <>
@@ -75,7 +75,7 @@ export function CarouselDemo() {
 
     },
     {
-      imgSrc: "public/images/trigonometriapp.png",
+      imgSrc: "images/trigonometriapp.png",
       title: "Inventaris App",
       description: (
         <>

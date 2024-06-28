@@ -12,19 +12,19 @@ import {
 export function CardWithFormDemo() {
   const items = [
     {
-        imgSrc: "public/images/James.jpg",
+        imgSrc: "images/James.jpg",
         name: "James",
         description: "Azhar has been an excellent collaborator. His dedication to the project and attention to detail have been outstanding. He is always willing to go the extra mile to ensure the success of the team.",
         email: "james@gmail.com",
       },
       {
-        imgSrc: "public/images/Alexandra.jpg",
+        imgSrc: "images/Alexandra.jpg",
         name: "Alexandra",
         description: "Working with Azhar has been a pleasure. He is not only highly skilled but also very reliable. His innovative solutions and timely delivery have greatly contributed to the success of our projects.",
         email: "alexandra@gmail.com",
       },
       {
-        imgSrc: "public/images/Brian.jpg",
+        imgSrc: "images/Brian.jpg",
         name: "Brian",
         description: "I highly recommend Azhar for any project. His technical expertise and problem-solving skills are top-notch. He is a great team player and always brings a positive attitude to the work environment.",
         email: "brian@gmail.com",

@@ -48,7 +48,7 @@ const Hero = () => {
           </div>
         </div>
         <div className="mt-8 md:mt-0 md:w-1/2 flex justify-center md:justify-end">
-          <img src="public/images/1.png" alt="Azhar Andrian" className="w-2/3 md:w-full" />
+          <img src="images/1.png" alt="Azhar Andrian" className="w-2/3 md:w-full" />
         </div>
       </div>
     </section>
